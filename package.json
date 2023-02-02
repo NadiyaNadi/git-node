@@ -1,0 +1,16 @@
+{
+  "name": "git-node",
+  "version": "1.0.0",
+  "description": "git node test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "cowsay": "^1.5.0"
+  }, 
+  "type":"module"
+}
